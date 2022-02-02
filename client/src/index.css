@@ -1,0 +1,26 @@
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(8, 54, 43);
+}
+
+.buttons input {
+  width: 5rem;
+  height: 3rem;
+  margin: 0.5rem;
+  border: none;
+  color: rgb(133, 255, 180);
+  border-radius: 0.5rem;
+  background-color: rgb(0, 104, 69);
+}
+
+.buttons input:hover {
+  color: rgb(102, 255, 161);
+  background-color: rgba(0, 104, 69, 0.712);
+}

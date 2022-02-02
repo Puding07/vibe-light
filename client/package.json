@@ -1,0 +1,9 @@
+{
+  "name": "vibe-light",
+  "version": "0.1.0",
+  "main": "src/index.html",
+  "license": "MIT",
+  "dependencies": {
+    "@jaames/iro": "^5.5.2"
+  }
+}
